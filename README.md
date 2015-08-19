@@ -8,9 +8,7 @@
 ##Step-by-Step instructions to run the script
 
 All steps are taken from the comments in the file 'run_analysis.R'
-The packages and libraries are installed automatically if they have not been deployed (step 1 and 2).
-
-to set paths variables: 
+The packages and libraries are installed automatically if they have not been deployed (step 1 and 2). 
 
 3 to set up the path to the directory that contains necessary files and folders "train", "test" (recommended to copy all files and folders to 'UCI HAR Dataset' folder
 
